@@ -1,3 +1,3 @@
 # express-server
 
-This project is an expres learning exercise for myself.
+This project is an express learning exercise for myself.
